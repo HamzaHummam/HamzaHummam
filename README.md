@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HamzaHummam)](https://git.io/awesome-stats-card)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaHummam)](https://github.com/HamzaHummam/github-readme-stats)
 
 <!--
 **HamzaHummam/HamzaHummam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
