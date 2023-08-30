@@ -1,4 +1,6 @@
 ![Hamza Hummam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaHummam&theme=vue-dark_icons=true)
+
+[![Hamza Hummam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HamzaHummam)](https://github.com/HamzaHummam/github-readme-stats)
 <!--
 **HamzaHummam/HamzaHummam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
